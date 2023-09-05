@@ -7,13 +7,13 @@ The primary purpose of this repository is to serve as a portfolio, highlighting 
 ## Projects
 Here's an overview of the types of projects you can find in this repository:
 
-*Image Classifier*: An image classification project where machine learning algorithms are used to classify images into predefined categories. This project demonstrates the power of supervised learning in solving image recognition problems.
+- *Image Classifier*: An image classification project where machine learning algorithms are used to classify images into predefined categories. This project demonstrates the power of supervised learning in solving image recognition problems.
 
-*Time Series Forecasts*: Time series forecasting is crucial in various industries. In this project, I explore different time series forecasting techniques to predict future values based on historical data.
+- *Time Series Forecasts*: Time series forecasting is crucial in various industries. In this project, I explore different time series forecasting techniques to predict future values based on historical data.
 
-*Recommender Systems*: Recommender systems are widely used in e-commerce and content recommendation platforms. I've implemented a recommender system that suggests items or content to users based on their preferences and behavior.
+- *Recommender Systems*: Recommender systems are widely used in e-commerce and content recommendation platforms. I've implemented a recommender system that suggests items or content to users based on their preferences and behavior.
 
-*Deep Neural Networks*: Deep learning has revolutionized the field of machine learning. In this project, I delve into the world of deep neural networks, showcasing their ability to handle complex tasks such as image recognition and natural language processing.
+- *Deep Neural Networks*: Deep learning has revolutionized the field of machine learning. In this project, I delve into the world of deep neural networks, showcasing their ability to handle complex tasks such as image recognition and natural language processing.
 
 ## Datasets
 You can find the datasets used in these projects in the "data" folder of this repository. Feel free to explore the data and use it for your own machine-learning projects.
